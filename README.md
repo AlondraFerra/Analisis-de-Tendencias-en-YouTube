@@ -33,8 +33,8 @@ El análisis se llevó a cabo en las siguientes fases:
 
 ## Resultados y Hallazgos
 
-- **Categorías más populares:** Se identificaron las categorías con mayor presencia en tendencias, destacando diferencias entre regiones.
-- **Diferencias regionales:**
+**Categorías más populares:** Se identificaron las categorías con mayor presencia en tendencias, destacando diferencias entre regiones.
+**Diferencias regionales:**
 - Algunas categorías, como música y entretenimiento, dominaron en múltiples países.
 - Otras categorías, como noticias o gaming, variaron significativamente en popularidad dependiendo de la región.
 - Factores culturales e idiomas influyeron en la aparición de ciertos tipos de contenido en tendencias.
